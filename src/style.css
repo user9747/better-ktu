@@ -11,6 +11,7 @@
 
 #sidebar-wrapper {
   left: 0 !important;
+  margin-left: 0 !important;
 }
 
 #real-sidebar-toggler {
@@ -21,4 +22,10 @@
 .toggle-control {
   margin-left: 0 !important;
   height: auto !important;
+}
+
+#showmenu {
+  margin-top:12%;
+  margin-left:85%;
+  color:#0051B5;
 }
